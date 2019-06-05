@@ -9,7 +9,7 @@ b:visited
     color: burlywood;
 }
 /* mouse over link */
-b:hover
+b:hover 
 {
     color: darkred;
 }
