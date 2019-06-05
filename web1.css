@@ -1,0 +1,159 @@
+  /* un visited link */
+b
+{
+    color: green;
+}
+/* visited link */
+b:visited
+{
+    color: burlywood;
+}
+/* mouse over link */
+b:hover
+{
+    color: darkred;
+}
+.a
+{
+    margin-top: 2.2%;
+}
+.bgcolor
+{
+    background-color: skyblue;
+}
+.back
+{
+  background-image: url(bc.png)
+}
+.img4
+{
+  padding: 0%;
+  height: 350px;
+  width: 100%;
+}
+.button
+{
+    margin-left:50px;
+}
+/* comment box */
+
+
+/* slider */
+
+
+.div1
+{
+    height: 400px;
+    width: 100%;
+   
+}
+.div2
+{
+    height: 400px;
+    width: 100%;
+    
+}
+.div3
+{
+    height: 400px;
+    width: 100%;
+  }
+h1
+{
+    text-align: center;
+}
+
+img
+{
+    height: 300px;
+    width: 100%
+}
+.background1
+{
+    background-image: url(background1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.background2
+{
+    background-image: url(background2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.background3
+{
+    background-image: url(background3.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.button1
+{
+    position: absolute;
+    margin-left: 100px
+}
+
+/* footer */
+
+.footer1{
+    background-color: lightseagreen;
+    color: white;
+   
+   }
+   .footer1 h2{
+     margin: 5px;
+     padding: 8px;
+     font-size: 25px;
+     font-family: "Times New Roman", Times, serif;
+     
+   }
+   .footer1 a{
+     color: white;
+   }
+   .footer1 a:hover{
+     color: ;
+   }
+   
+   .footer1 p{
+     margin: 5px;
+     padding-top: 2px;
+     padding-left: 10px;
+     font-size: 18px;
+     font-family: "Times New Roman", Times, serif;
+     
+   }
+   .footer1 h2{margin: 5px;
+     padding: 5px;
+     border-bottom: 1px solid white;
+     
+     
+   }
+   /*==========================footer2===========================*/
+   .footer2{
+   
+     background-color: #e6e6e6;
+     color: black;
+     
+   }
+   .footer2 p{
+     margin: 8px;
+     padding: 8px;
+     font-size: 16px;
+     font-family: "Times New Roman", Times, serif;
+   
+   }
+   .myframegmap{
+   
+       border: 3px solid #f6f5f0;
+       border-radius: 8px;
+       height: 130px;
+       width: 80%;
+       box-shadow: 0px 0px 3px 3px #e7e4dc;
+       overflow: hidden;
+       position: relative;
+       margin: 0 auto;
+   
+   }
+  +
